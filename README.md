@@ -1,1 +1,1 @@
-View an interactive dashboard for this project [here](https://public.tableau.com/app/profile/marion.macharia/viz/Book1_17178683397890/Dashboard1)
+View an interactive dashboard for this project [here](https://public.tableau.com/app/profile/marion.macharia/viz/Book1_17178683397890/Dashboard1) and the canva presentation slides [here](https://www.canva.com/design/DAGHkRU9NOs/r6bgQOMxan4rNn_v0YxmVg/edit?utm_content=DAGHkRU9NOs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
